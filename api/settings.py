@@ -94,6 +94,7 @@ DATABASES = {
 }
 
 
+print(DATABASES['default'])
 
 
 # Password validation
